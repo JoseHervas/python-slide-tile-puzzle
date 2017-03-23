@@ -1,4 +1,4 @@
-Slide the Numbers Puzzle!
+"Slide the Numbers" Puzzle!
 ========================
 
 Simple tile puzzle written on Python for Windows. Many of the existing tile games are written with extra packages like pygame, but I wanted to create a very simple script.
