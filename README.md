@@ -14,4 +14,6 @@ How to run this code:
 - Open a command prompt
 - run "python puzzle_slider.py"
 
+Example:
 
+![example](https://github.com/JoseHervas/python-slide-tile-puzzle/blob/master/screenshot.gif)
